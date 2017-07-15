@@ -5,7 +5,9 @@ for the ordinary least squares estimate of the linear regression coefficients co
 using summation.
 
 It consists of 2 python files 
+
 	- 	linreg.py
+	
 	- 	linreg_gradient.py
 
 	
